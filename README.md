@@ -1,6 +1,6 @@
 # predict_stock
 職業訓練校にて作成した、pythonとStreamlitを使った株価予測ツールです。
-Streamlitサイトにて公開しています。
+Streamlitサイトにて公開しています。 =>
 [リンク](https://predictstock-aacgmsfgrgfmpikmm6yjao.streamlit.app/)
 
 ## 使用技術（Tech Stack）
